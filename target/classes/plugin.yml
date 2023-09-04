@@ -1,0 +1,7 @@
+name: Quests
+version: '1.0'
+main: voidcube.quests.Quests
+api-version: '1.20'
+commands:
+  next:
+    aliases: next
